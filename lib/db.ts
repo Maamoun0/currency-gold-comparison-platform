@@ -26,7 +26,7 @@ const initialData = {
     {
       id: "admin-uuid-1111-2222-333333333333",
       email: "admin@egpmarket.com",
-      password_hash: "$2a$12$L73r8X8.j35hCtf6jM1bSeiVvLd5a0gJq0jWpNu2c0m8wL4Q6.uCq", // password: adminpassword
+      password_hash: "$2a$12$x9DKP/XvADJ7pa3kifASSe76R9M7B7zdhxVJ9Fkbq7AMHtPRsGT36", // password: adminpassword
       full_name: "مدير المنصة",
       role: "admin",
       is_verified: true,
@@ -36,7 +36,7 @@ const initialData = {
     {
       id: "user-uuid-1111-2222-333333333333",
       email: "user@egpmarket.com",
-      password_hash: "$2a$12$L73r8X8.j35hCtf6jM1bSeiVvLd5a0gJq0jWpNu2c0m8wL4Q6.uCq", // password: adminpassword
+      password_hash: "$2a$12$x9DKP/XvADJ7pa3kifASSe76R9M7B7zdhxVJ9Fkbq7AMHtPRsGT36", // password: adminpassword
       full_name: "أحمد مأمون",
       role: "user",
       is_verified: true,
