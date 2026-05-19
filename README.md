@@ -10,19 +10,19 @@ Designed, developed, and maintained by **Ahmed Maamoun**.
 
 ### Home Page & Currency Board
 Detailed price board tracking buy/sell rates, daily changes, and currency highlights.
-![Home Page](public/screenshots/homepage.png)
+![Home Page](public/screenshots/homepage_v2.png)
 
 ### Live Interactive Charts
 Historical rate tracking and comparative visual analytics for EGP fluctuation.
-![Currency Details](public/screenshots/currency_details.png)
+![Currency Details](public/screenshots/currency_details_v2.png)
 
 ### Secure Admin Login
 Administrative authentication portal for managing prices, users, and scrapers.
-![Login Page](public/screenshots/login_page.png)
+![Login Page](public/screenshots/login_page_v2.png)
 
 ### Scraper & System Control Center
 Real-time scraper logs, manual executions, and critical maintenance actions.
-![Admin Dashboard](public/screenshots/admin_dashboard.png)
+![Admin Dashboard](public/screenshots/admin_dashboard_v2.png)
 
 ---
 

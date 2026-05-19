@@ -34,19 +34,19 @@ async function takeScreenshots() {
   try {
     // 1. Homepage
     await navigateAndEnsureStyles("http://localhost:3000/");
-    const homepagePath = path.join(screenshotDir, "homepage.png");
+    const homepagePath = path.join(screenshotDir, "homepage_v2.png");
     await page.screenshot({ path: homepagePath, fullPage: false });
     console.log(`Captured homepage to ${homepagePath}`);
 
     // 2. Currency Details Page (USD)
     await navigateAndEnsureStyles("http://localhost:3000/currency/usd");
-    const detailsPath = path.join(screenshotDir, "currency_details.png");
+    const detailsPath = path.join(screenshotDir, "currency_details_v2.png");
     await page.screenshot({ path: detailsPath, fullPage: false });
     console.log(`Captured details page to ${detailsPath}`);
 
     // 3. Login Page
     await navigateAndEnsureStyles("http://localhost:3000/login");
-    const loginPath = path.join(screenshotDir, "login_page.png");
+    const loginPath = path.join(screenshotDir, "login_page_v2.png");
     await page.screenshot({ path: loginPath, fullPage: false });
     console.log(`Captured login page to ${loginPath}`);
 
@@ -76,7 +76,7 @@ async function takeScreenshots() {
     await page.waitForTimeout(5000);
     console.log("URL after reload:", page.url());
     
-    const adminPath = path.join(screenshotDir, "admin_dashboard.png");
+    const adminPath = path.join(screenshotDir, "admin_dashboard_v2.png");
     await page.screenshot({ path: adminPath, fullPage: false });
     console.log(`Captured admin dashboard to ${adminPath}`);
 
