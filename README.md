@@ -98,7 +98,7 @@ npm run scrape:usdt
 ## 🧑‍💻 Author & Designer
 
 - **Ahmed Maamoun** (Software Engineer & Designer)
-- Email: [ahmed.maamoun.dev@gmail.com](mailto:ahmed.maamoun.dev@gmail.com)
+- Email: [ee602000@gmail.com](mailto:ee602000@gmail.com)
 - GitHub: [@Maamoun0](https://github.com/Maamoun0)
 
 *All rights reserved © 2026. Designed and developed from scratch by Ahmed Maamoun.*
